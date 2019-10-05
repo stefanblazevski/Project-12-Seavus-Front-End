@@ -202,7 +202,7 @@ a {
 .menu-toggle {
     display: none;
     position: relative;
-    z-index: 1000;
+    z-index: 9999;
     cursor: pointer;
     background-color: transparent;
     width: 30px;
