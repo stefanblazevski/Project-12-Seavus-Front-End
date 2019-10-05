@@ -159,6 +159,12 @@ a {
     padding: 50px 0;
 }
 
+.z-index-helper{
+
+    z-index: -1;
+    position: relative;
+}
+
 .navigation-item {
     display: inline-block;
     margin: 0 15px;
@@ -379,6 +385,7 @@ a {
 
     .navigation-displayed {
         position: fixed;
+        z-index: 9999;
         left: 0;
         display: block;
         overflow: hidden;
