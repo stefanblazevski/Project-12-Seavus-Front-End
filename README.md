@@ -1,9 +1,9 @@
 # Solar 🛰
 ## About the project ⭐
-This project was part of the SEDC assignment for building a project independently as students. This assignment was meant to teach students to build something from scratch and experience working on a real world project. The ideas are independent and are not given before hand, but defined by the student it self. 
+This project was part of the SEDC assignment for building a project as students. This assignment was meant to teach students to build something from scratch and experience working on a real world project. The design of the project was given before hand, but realised by the student it self. 
 
 ## Idea ☄
-Solar is an educational project. It strives to educate people about solar energy, what plans could they choose if they decided to go green. The project goal is to spread awareness that solar energy is cheaper than ever and pretty effective.
+Solar is an company page about installing solar panels and many more services. The project goal is to spread awareness that solar energy is cheaper than ever and pretty effective.
 
 ## Features ⚡
 * Single Landing Page
