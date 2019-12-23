@@ -27,3 +27,7 @@ Solar is an educational project. It strives to educate people about solar energy
 ### Desktop View
 
 ![Desktop view](Solar.gif)
+
+### Mobile View
+
+![Mobile view](MobileView.gif)
