@@ -23,4 +23,7 @@ Solar is an educational project. It strives to educate people about solar energy
 * Visual Studio Code
 
 ## Demo 🚩
-![](solar.gif)
+
+### Desktop View
+
+![Desktop view](Solar.gif)
